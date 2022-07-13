@@ -75,7 +75,7 @@ networkx==2.6.3
 nodeenv==1.7.0
 notebook==6.4.12
 numba==0.53.1
-numpy==1.21.6
+numpy==1.22
 opencv-contrib-python==4.3.0.38
 opencv-python==4.6.0.66
 openpyxl==3.0.10
