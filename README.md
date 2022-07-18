@@ -8,6 +8,8 @@
 
 ## 系统开发简介 ##
 我们的遥感图像自动解译系统是完全使用**Python**语言开发，基于**Streamlit**库实现前端Web设计、基于**Paddlepaddle**和**PaddleRS**库实现后端功能部署，使用**本地算力**推理而不需要联网使用的系统。
+![JUO~CKE$7 0X`)FZKB@}G@1](https://user-images.githubusercontent.com/87363600/179435330-1de968fb-cb57-4fc1-a430-603dda018217.png)
+
 
 ### 核心库简介： ###
 
