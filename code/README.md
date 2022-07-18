@@ -68,10 +68,13 @@ Web总体框架十分清晰简单，即分为主页和四个分页，四个分�
 2.Record a screen cast可以录屏（可以设定录入声音）；
 
 3.Clear cache可以清除网页缓存。
+![H_JZNI `16_%UGE68(NA U8](https://user-images.githubusercontent.com/87363600/179435507-3541b040-efe2-4c86-9bc6-ddd1d59c9f14.png)
+![)8C(8M R2AO43V1F2~CF002](https://user-images.githubusercontent.com/87363600/179435548-aa56fe7f-361c-41b1-b9e6-a8f88e282b39.png)
+
 
 
 ## 结语 ##
-由于文件大小的限制，这里不能直接放置图片体现效果。
+由于文件大小的限制，这里不过多放置图片体现效果。
 
 可以下载主目录下的**概要设计文档**.docx更进一步查看项目的功能。但具体的UI呈现和交互性功能，以及实际的预测效果需要**亲自体验**才能获得直接的感受。
 
